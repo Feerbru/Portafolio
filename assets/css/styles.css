@@ -288,13 +288,13 @@ img{
     width: 65%;
 }
 .skills__asp-net{
-    width: 55%;
+    width: 45%;
 }
 .skills__net-core{
-    width: 55%;
+    width: 40%;
 }
 .skills__sql{
-    width: 35%;
+    width: 45%;
 }
 .skills__csharp{
     width: 65%;
@@ -448,7 +448,7 @@ img{
         margin-right: auto;
     }
     .home__img{
-        right: 10%;
+        right: 20%;
     }
 }
 
